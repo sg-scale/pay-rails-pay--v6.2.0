@@ -23,7 +23,7 @@ gem "receipts"
 gem "prawn", github: "prawnpdf/prawn"
 
 # Test against different databases
-gem "sqlite3", "~> 1.4"
+gem "sqlite3", "~> 2.10"
 gem "mysql2"
 gem "pg"
 
